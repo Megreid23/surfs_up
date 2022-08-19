@@ -9,3 +9,7 @@ The purpose of this analysis is to provide additional data to the client for the
 * Even in December, the average max temperature is 83 degrees, to June's average max of 85 degrees.
 ![June_Temps](June_Temps.png)
 ![Dec_Temps](Dec_Temps.png)
+
+
+#########################################
+
